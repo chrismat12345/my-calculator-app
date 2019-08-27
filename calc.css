@@ -1,0 +1,23 @@
+.main {
+    border: 2px solid blue;
+    padding: 50px;
+    background: cadetblue;
+}
+
+#a {
+    color: red;
+    padding: 20px;
+    border: 1px solid red;
+}
+
+#b {
+    color: rgb(6, 22, 94);
+    padding: 20px;
+    border: 1px solid red;
+}
+
+#c {
+    color: rgb(6, 22, 94);
+    padding: 20px;
+    border: 1px solid red;
+}
